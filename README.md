@@ -1,5 +1,6 @@
 # angular_dev_environment
 Setting Up Your Machine For Angular Development
+From: https://angularfirebase.com/lessons/basics-angular-cli/
 
 **Step 1**
 
