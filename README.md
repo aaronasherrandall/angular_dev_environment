@@ -48,4 +48,16 @@ After creation of the project, type the following command in visual code console
 
 After successfully compiling project, open browser type http://localhost:4200/ hit enter
 
+## Inside the Project
+
+**Angular.json**
+
+The CLI (Angular Command Line Interface) configuration options can be found in the angular.json file in the root of the project. It is possible to have multiple apps and libraries in a single CLI workspace. If necessary, you can edit values in this file to change the behavior of the CLI, but that’s usually only required for more advanced use cases.
+
+**Generate**
+
+The generate command is the most powerful feature of the CLI and you will use it to quickly scaffold boilerplate code. In addition, it will update your NgModule with the TypeScript import and declaration.
+
+```ng generate component hello```
+
 
