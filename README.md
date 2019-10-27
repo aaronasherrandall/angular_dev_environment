@@ -17,13 +17,13 @@ Open browser type https://cli.angular.io/  check command to install Angular CLI.
 
 **Step 4**
 
-Open command prompt, type command npm install –g @angular/cli. It will install CLI globally where g represents globally. 
+Open command prompt, type ```npm install –g @angular/cli```. It will install CLI globally where g represents globally. 
 To check Angular CLI installed type ```ng version```
 
 **Step 5**
 
-Open command prompt type npm install –g typescript, it will install TypeScript in your system. 
-Now type tsc –version in command prompt to check the version of typescript installed.
+Open command prompt type ```npm install –g typescript```, it will install TypeScript in your system. 
+Now type ```tsc –version``` in command prompt to check the version of typescript installed.
 
 **Step 6**
 
