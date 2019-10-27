@@ -58,6 +58,25 @@ The CLI (Angular Command Line Interface) configuration options can be found in t
 
 The generate command is the most powerful feature of the CLI and you will use it to quickly scaffold boilerplate code. In addition, it will update your NgModule with the TypeScript import and declaration.
 
-```ng generate component hello```
+```ng generate component cool```
+
+Make sure a new terminal is open and the commands are being run in the root folder.
+
+```
+CREATE src/app/cool/cool.component.html (19 bytes)
+CREATE src/app/cool/cool.component.spec.ts (614 bytes)
+CREATE src/app/cool/cool.component.ts (261 bytes)
+CREATE src/app/cool/cool.component.css (0 bytes)
+UPDATE src/app/app.module.ts (467 bytes)
+```
+This creates 4 different files and updates our existing app module.
+
+**Generate a Component for a Feature Module**
+
+As an Angular Developer, we should compartmentalize code into ng modules.
+By default, the CLI will import a component that's generated into the root app module.
+What if we are trying to import a component for a feature module?
+
+
 
 
