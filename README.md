@@ -41,8 +41,8 @@ In visual code console type ng new [Project Name]. It will take a few seconds an
 
 After creation of the project, type the following command in visual code console.
 
-PS C:\Users\farhan\Desktop\ANGULAR> cd hello-world
-PS C:\Users\farhan\Desktop\ANGULAR\hello-world> ng serve
+```cd [App Name / File Path]```
+```ng serve```
 
 **Step 10**
 
